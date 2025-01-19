@@ -1,4 +1,4 @@
-# assistente_de_acordes_dois
+# App for Born to Music Project
 
 A new Flutter project.
 
