@@ -1,8 +1,6 @@
 # App for Born to Music Project
 
-**Description of the Born to Music App Programming**  
-
-The application was developed in Flutter and integrates technology into musical learning through an intuitive and interactive interface. Its main function is to manage and send chord sequences to an ESP32 via Wi-Fi connection, facilitating musical practice.  
+**Description of the Born to Music App Programming**   
 
 ### **Main Features:**  
 1. **Chord Selection**:  
